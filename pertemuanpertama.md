@@ -69,5 +69,22 @@
  * Obeservasi dan review dokumentasi
   * Termasuk review source-code bila diperlukan
  * Bisa jadi bukti-bukti audit yang diambil oleh auditor mencakup bukti elektronis
+ * Audit around computer
+ * Audit trought computer
+ * Audit with computer
+ * Jika tingkat TI tinggi maka audit yang dominan digunakan adalah audit with computer
+   * Biasa disebut dengan teknik audit berbantuan komputer atau
+  
+## Standar
+* Acuan: ISACA (IS Auditing Guidance dan IS Auditing Procedure)
+* ISACA IS Auditing Standart
+* Memberikan guidelance untuk auditor
 
-
+## Hasil audit, Siapa yang melakukan audit
+* Auditor sistem informasi pada dasarnya melakukan penilaian tentang kesiapan sistem berdasarkan kriteria
+  * Kemudian berdasarkan pengujian auditor akan memberikan rekomendasi perbaikan yang diperlukan
+  * adakalah judgement diperlukan berdasarkan kriteria yang disepakati bersama
+  * penanggung jawab sistem yang diaudit teteap berada pada pengolola sistem, bukan ditangan auditor. atas rekomendasi yang diberikan tentunya diharapakan ada tindak lanjut perbaikan bagi manajemen
+* Siapakah yang sebaiknya melakukan audit sistem informasi?
+  * audit sistem informasi dapat dilakukan sebagai bagian dari pengendalian internal yang dilakukan oleh fungsi TI
+    * Tapi jika dibutuhkan opini publik tentang kesiapan sistem tersebut, audit dapat dilakukan dengan mengundang pihak ketika
